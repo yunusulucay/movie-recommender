@@ -18,8 +18,13 @@ Burada ise filmlerin aralarındaki ilişkiye dayanılarak bir tahmin modeli olu�
 
 
 ![image](https://user-images.githubusercontent.com/42489236/156830186-432296fa-c9a0-4300-ac8e-394dcb33de2c.png)
-
-
+**Comments About who watched Ace Ventura: Pet Detective and Forrest Gump movies**
+%26 of people watched Ace Ventura: Pet Detective movie (antecedent support)
+%50 of people watched Forrest Gump (consequent support)
+%21 of people watched both of them (support)
+%81 of people who watched Ace Ventura also watched Forrest Gump (confidence)
+The people who watched them both is %8 more than who watched them separately (leverage)
+The rate of the movies related each other is 2.68 (conviction)
 
 
 
