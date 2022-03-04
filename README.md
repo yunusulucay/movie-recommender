@@ -2,7 +2,7 @@
 
 The main purpose of this project is the implementation of Clustering Algorithms. However, it is aimed to create a series of recommendation systems with clustering and some other techniques. I used elbow method and silhouette score to select cluster number. These are our clustering metrics. In addition to this, clustering was applied using text data. Here, a series recommendation system was created by applying 4 different methods.
 
-<img src="https://user-images.githubusercontent.com/42489236/156833183-cf94bbdd-fb58-41b9-bc28-a4fb35eddc95.png" width="900" height="1500">
+<img src="https://user-images.githubusercontent.com/42489236/156833183-cf94bbdd-fb58-41b9-bc28-a4fb35eddc95.png" width="900" height="900">
 
 1- Clustering:
 I implemented 4 different clustering models. These are Agglomerative Clustering, K-Means Clustering, Density-Based Clustering, Gaussian Mixture Model.
