@@ -15,3 +15,12 @@ PCA kullanılmıştır. User temelli bir clustering kullanılmıştır. Her bir 
 Burada ise filmlerin aralarındaki ilişkiye dayanılarak bir tahmin modeli oluşturulması amaçlanmıştır. Örneğin 2 kişi var. Bunlardan user1 {Yüzüklerin Efendisi, Kuzuların Sessizliği, Forrest Gump} user2 {Yüzüklerin Efendisi, Kuzuların Sessizliği, Jurassic Park}, user3 de Yüzüklerin Efendisi izlediyse Kuzuların Sessizliği'ni ona önermek uygun olacaktır.
 
 ![image](https://user-images.githubusercontent.com/42489236/156826723-2f71151f-1327-4152-8655-c2bf1b035de0.png)
+
+
+![image](https://user-images.githubusercontent.com/42489236/156830186-432296fa-c9a0-4300-ac8e-394dcb33de2c.png)
+
+
+
+
+
+
